@@ -5,7 +5,7 @@ BootCamp Homework - 01 HTML CSS Git: Code Refactor
 In today's age, marketing agency requires existing websites to be accessible to all readers. 
 Web accessibility is profitable for companies, as they rank higher in search engines like Google.
 We are going to refractor a code for an existing web application to organize them in a semantic structure and increase its efficiency.
-![Screenshot](.challenge/develop/assets/images/webpage.png)
+![Screenshot](.challenge01/develop/assets/images/webpage.png)"screenshot"
 
 ## User Story
 
