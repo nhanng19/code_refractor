@@ -108,5 +108,10 @@ Simplified multiple rules into one rule:
 ## The Result
 After refractoring the existing code, we were able to provide an accessible, efficient, and stuctured project for our client. 
 
+## Submission
+This project was uploaded to GitHub at the following respository link:
+[https://github.com/nhanng19/challenge01](https://github.com/nhanng19/challenge01)
 
+Depolyed Web Application Link:
+[https://nhanng19.github.io/challenge01/develop/index](https://nhanng19.github.io/challenge01/develop/index)
 
