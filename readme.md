@@ -110,8 +110,8 @@ After refractoring the existing code, we were able to provide an accessible, eff
 
 ## Submission
 This project was uploaded to GitHub at the following respository link:
-[https://github.com/nhanng19/challenge01](https://github.com/nhanng19/challenge01)
+[https://github.com/nhanng19/code_refractor](https://github.com/nhanng19/code_refractor)
 
 Deployed Web Application Link:
-[https://nhanng19.github.io/challenge01/develop/index](https://nhanng19.github.io/challenge01/develop/index)
+[https://nhanng19.github.io/code_refractor/develop/index](https://nhanng19.github.io/code_refractor/develop/index)
 
