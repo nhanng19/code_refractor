@@ -1,5 +1,5 @@
 # 01_Code_Refactor_NN
-BootCamp Homework - 01 HTML CSS Git: Code Refactor
+HTML CSS Git: Code Refactor
 
 ## The Challenge
 In today's age, marketing agency requires existing websites to be accessible to all readers. 
